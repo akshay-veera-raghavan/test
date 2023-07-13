@@ -7,6 +7,7 @@ class HelloApp(wx.App):
     def OnInit(self):
         return True
 
+
 def save_hello_to_file(file_name):
     i=0
     a=[]
